@@ -9,3 +9,5 @@ if cislo <11 and cislo >=2:
 
 else:
     print("Zkus to znovu")
+
+#pekny format print

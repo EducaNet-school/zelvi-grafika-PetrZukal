@@ -8,6 +8,7 @@ if prvnicislo<poslednicislo:
 else:
     print("Zkus to znovu")
 
-
+#ta cisla tiskni s mezerou, nejsou to prvocisla, neukladas do seznamu
+# pekna kontrola uzivatelskeho vstupu
 
 
