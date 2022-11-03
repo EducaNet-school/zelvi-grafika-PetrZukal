@@ -13,3 +13,6 @@ for i in range(9):
 else:
     print("Zkus to znovu")
 print(sez)
+
+# ten else radek 13 nechapu
+# mel se pocitat prumer

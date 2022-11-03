@@ -18,4 +18,6 @@ class Zadanecislo(object):
 cisla = cisla[Zadanecislo:] + cisla[:Zadanecislo]
 print(cisla)
 
+# co je ten radek 15?
+#program pada, nefunguje
 
